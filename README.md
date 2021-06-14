@@ -1,0 +1,1 @@
+# bevitt-karakter-kodjanak-mutatasa
