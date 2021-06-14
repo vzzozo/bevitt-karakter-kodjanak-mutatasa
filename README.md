@@ -1,1 +1,1 @@
-# bevitt-karakter-kodjanak-mutatasa
+Az alábbi projekt segítségével, ha a az adott oldalon a felhasználó megnyom egy billentyűt, vagy egy billentyű kombinációt, az oldal visszaadja annak a karakternek a tulajdonságait. ![keycode](https://user-images.githubusercontent.com/83311852/121886139-59d3eb80-cd15-11eb-8458-d7f08e17f446.gif)
